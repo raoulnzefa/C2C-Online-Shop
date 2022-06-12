@@ -1,0 +1,105 @@
+{
+    "code": 200,
+    "result": [{
+            "name": "轮播图",
+            "type": 0,
+            "panelContents": [{
+                    "picUrl": "http://127.0.0.1:8000/media/apple/iphone13pro.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/iphone13.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/iphone12.png"
+                }
+            ]
+        },
+        {
+            "name": "活动版块",
+            "type": 1,
+            "panelContents": [{
+                    "picUrl": "http://127.0.0.1:8000/media/apple/mac-13.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/mac-m1.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/mac-accessory.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/mac-trade.png"
+                }
+            ]
+        },
+        {
+            "name": "热门商品",
+            "type": 2,
+            "panelContents": [{
+                    "id": 5,
+                    "price": 8199,
+                    "name": "Iphone13 Pro",
+                    "sub_title": "Fastest A15 Chips   120HZ ProMotion",
+                    "image": "http://127.0.0.1:8000/media/product_image/iphone13pro-blue.png"
+                },
+                {
+                    "id": 1,
+                    "price": 14999,
+                    "name": "Macbook Pro",
+                    "sub_title": "M1 Pro   M1 Max",
+                    "image": "http://127.0.0.1:8000/media/product_image/macbook-pro-14-silver.png"
+                }
+            ]
+        },
+        {
+            "name": "打折促销",
+            "type": 2,
+            "panelContents": [{
+                    "id": 9,
+                    "price": 6199,
+                    "name": "iphone 13",
+                    "sub_title": "StarLight",
+                    "image": "http://127.0.0.1:8000/media/product_image/iphone13-white.png"
+                },
+                {
+                    "id": 10,
+                    "price": 6099,
+                    "name": "iphone 13",
+                    "sub_title": "Blue",
+                    "image": "http://127.0.0.1:8000/media/product_image/iphone13-blue.png"
+                },
+                {
+                    "id": 11,
+                    "price": 5999,
+                    "name": "iphone 13",
+                    "sub_title": "Midnight",
+                    "image": "http://127.0.0.1:8000/media/product_image/iphone13-black.png"
+                },
+                {
+                    "id": 12,
+                    "price": 5899,
+                    "name": "iphone 13",
+                    "sub_title": "Pink",
+                    "image": "http://127.0.0.1:8000/media/product_image/iphone13-pink.png"
+                }
+
+            ]
+        },
+        {
+            "name": "活动版块2",
+            "type": 1,
+            "panelContents": [{
+                    "picUrl": "http://127.0.0.1:8000/media/apple/ipad-pro.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/ipad-mini.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/ipad-air.png"
+                },
+                {
+                    "picUrl": "http://127.0.0.1:8000/media/apple/ipad.png"
+                }
+            ]
+        }
+    ]
+}
